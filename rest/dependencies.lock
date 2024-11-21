@@ -172,7 +172,7 @@
                 "com.netflix.conductor:conductor-common",
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "3.24.3"
+            "locked": "3.25.5"
         },
         "com.jayway.jsonpath:json-path": {
             "firstLevelTransitive": [
@@ -214,7 +214,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.7"
+            "locked": "2.16.0"
         },
         "io.reactivex:rxjava": {
             "firstLevelTransitive": [
@@ -492,7 +492,7 @@
                 "com.netflix.conductor:conductor-common",
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "3.24.3"
+            "locked": "3.25.5"
         },
         "com.jayway.jsonpath:json-path": {
             "firstLevelTransitive": [
@@ -534,7 +534,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-core"
             ],
-            "locked": "2.7"
+            "locked": "2.16.0"
         },
         "io.reactivex:rxjava": {
             "firstLevelTransitive": [

@@ -194,7 +194,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-common"
             ],
-            "locked": "3.24.3"
+            "locked": "3.25.5"
         },
         "com.netflix.conductor:conductor-annotations": {
             "firstLevelTransitive": [
@@ -241,7 +241,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-client"
             ],
-            "locked": "2.7"
+            "locked": "2.16.0"
         },
         "javax.ws.rs:javax.ws.rs-api": {
             "firstLevelTransitive": [
@@ -545,7 +545,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-common"
             ],
-            "locked": "3.24.3"
+            "locked": "3.25.5"
         },
         "com.netflix.conductor:conductor-annotations": {
             "firstLevelTransitive": [
@@ -592,7 +592,7 @@
             "firstLevelTransitive": [
                 "com.netflix.conductor:conductor-client"
             ],
-            "locked": "2.7"
+            "locked": "2.16.0"
         },
         "javax.ws.rs:javax.ws.rs-api": {
             "firstLevelTransitive": [

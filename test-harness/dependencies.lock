@@ -148,7 +148,7 @@
             "locked": "32.1.2-jre"
         },
         "com.google.protobuf:protobuf-java": {
-            "locked": "3.24.3"
+            "locked": "3.25.5"
         },
         "com.netflix.conductor:conductor-cassandra-persistence": {
             "project": true
@@ -559,7 +559,7 @@
                 "com.netflix.conductor:conductor-grpc",
                 "com.netflix.conductor:conductor-grpc-client"
             ],
-            "locked": "3.24.3"
+            "locked": "3.25.5"
         },
         "com.jayway.jsonpath:json-path": {
             "firstLevelTransitive": [
@@ -740,7 +740,7 @@
                 "com.netflix.conductor:conductor-core",
                 "com.netflix.conductor:conductor-es6-persistence"
             ],
-            "locked": "2.7"
+            "locked": "2.16.0"
         },
         "io.grpc:grpc-netty": {
             "firstLevelTransitive": [
